@@ -1,0 +1,203 @@
+{
+  "firstname": "Duvall",
+  "lastname": "Pinkney",
+  "contact": {
+    "email": "Duvall.Pinkney@gmail.com",
+    "phone": "(917)242-9975",
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/duvall-pinkney-16949260/",
+    "github": "github.com/DPinkney001"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "C#",
+          "Python",
+          "Java",
+          "C++",
+          "Javascript",
+          "C"
+        ]
+      },
+      {
+        "type": "Databases",
+        "items": [
+          "MySQL"
+        ]
+      },
+      {
+        "type": "Tools",
+        "items": [
+          "Git",
+          "Anaconda",
+          "Spyder",
+          "Idle",
+          "Eclipse",
+          "Visual Studio",
+          "Google Colabs",
+          "Jupyter Notebooks",
+          "Android Studio"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Embedded Systems",
+          "Electronics",
+          "Augemented Reality"
+        ]
+      }
+    ]
+  },
+  "work_experience": {
+    "items": [
+      {
+        "title": "Student Researcher",
+        "organization": "Google Research",
+        "location": "remote",
+        "from": "Feburary 2021",
+        "to": "April 2021",
+        "details": [
+          "Created a algorithm in python using ROS robtoic operating system to control a robot to map a 2 dimensional space."
+        ],
+        "technology_used": {
+          "tools": [
+            "Python",
+            "ROS Robot Operating System",
+            "Virtual Box",
+            "Visual Studio code",
+            "Ubuntu linux",
+            "Windows 10 pro",
+            "Gazebo"
+          ]
+        }
+      }
+    ]
+  },
+  "involvement": {
+    "organizations": [
+      "IEEE, SHPE, NSBE, APS",
+      "NSBE Fall 2015 Hackathon, a 24 hour hackathon "
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Awarded 3<sup>rd</sup> place award in GoogleCSR 2021",
+      "https://explorecsr.github.io/schedule/"
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent)",
+      "Interests: Cars, Card Games, Computers, Video Games."
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "institution": "CUNY Lehman College",
+        "graduation_year": 2022
+      },
+      {
+        "degree": "Associates in Applied Science",
+        "major": "Automotive Technology",
+        "institution": "CUNY Bronx Community College",
+        "graduation_year": 2014
+      },
+      {
+        "degree": "High School Diploma and regents diploma",
+        "major": "Aviation technology",
+        "institution": "Aviation High School",
+        "graduation_year": 2004
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "Programming Methods 1"
+    },
+    {
+      "name": "Programming Methods 2"
+    },
+    {
+      "name": "Discrete Mathematics"
+    },
+    {
+      "name": "Digital Electronics"
+    },
+    {
+      "name": "Computer Organization"
+    },
+    {
+      "name": "Data Structures and Algorithms"
+    },
+    {
+      "name": "Network Systems"
+    },
+    {
+      "name": "Operating Systems"
+    },
+    {
+      "name": "Databases Systems"
+    },
+    {
+      "name": "Internet Programming"
+    },
+    {
+      "name": "Mobile Programming - Android Programming"
+    },
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Techniques in Data Science"
+    },
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Independent Study"
+    },
+    {
+      "name": "Calculus 1"
+    },
+    {
+      "name": "Calculus 2"
+    },
+    {
+      "name": "Linear Algebra"
+    },
+    {
+      "name": "Web Development"
+    }
+	{
+      "name": "Accounting Principles One"
+    }
+	{
+      "name": "Macro Economics"
+    }
+  ],
+  "research_experience": {
+    "items": [
+      {
+        "title": "Student Researcher",
+        "organization": "Google Research, Fordham University",
+        "from": "Feburary 2021",
+        "to": "April 2021",
+        "points": [
+          "Designed and tested python algorithms to control a robot in order to map a 2-Dimensional space. The robot used ROS(Robot Operating System) and simulation software called gazebo"
+        ]
+      }
+    ]
+  },
+  "show_assessments_on_resume": {
+    "required_assessment": true,
+    "optional_assessment_1": true,
+    "optional_assessment_2": true,
+    "optional_assessment_3": true
+  }
+}
