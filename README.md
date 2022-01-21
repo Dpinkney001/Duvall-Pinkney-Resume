@@ -1,2 +1,2 @@
 # Duvall-Pinkney-Resume
-https://tryhackme.com/badge/853593
+https://tryhackme.com/p/Dpinkney001
